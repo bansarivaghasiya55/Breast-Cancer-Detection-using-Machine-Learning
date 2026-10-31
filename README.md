@@ -22,3 +22,9 @@ Breast Cancer Dataset
 ## Team Members
 -vaghasiya bansari
 -TARSARIYA KRISHANA
+
+## Features
+- Breast Cancer Detection using Machine Learning
+- Dataset Analysis
+- Machine Learning Prediction
+- Python Implementation
